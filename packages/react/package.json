@@ -10,9 +10,10 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@velame-ui/tokens": "*",
+    "@velame-ui/ts-config": "*",
     "tsup": "^8.1.0",
     "typescript": "^5.4.5"
   }

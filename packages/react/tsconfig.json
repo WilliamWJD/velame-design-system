@@ -1,0 +1,4 @@
+{
+    "extends": "@velame-ui/ts-config/react.json",
+    "include": ["src"]
+  }
