@@ -1,3 +1,3 @@
-import {colors} from '@velame-ui/tokens'
+import { colors } from '@velame-ui/tokens'
 
 console.log(colors)
