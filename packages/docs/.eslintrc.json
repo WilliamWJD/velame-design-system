@@ -1,0 +1,3 @@
+{
+  "extends": "@velame-ui/eslint-config"
+}
